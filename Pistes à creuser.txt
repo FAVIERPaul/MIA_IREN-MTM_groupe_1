@@ -1,0 +1,5 @@
+Projet autour de letterboxd
+
+-regarder ce qui existe déjà et faire un bilan 
+-les données que l'on peut récupérer (les api qui existent et tout ce qu'il y a sur l'app)
+-trouver une idée qui pourrait exploiter ce que l'on trouve (avec si possible un vrai intérêt)
